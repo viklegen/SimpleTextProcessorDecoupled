@@ -1,6 +1,7 @@
 # SimpleTextProcessorDecoupled
 
 Project Name: SimpleTextProcessorDecoupled
+
 Project description.
 
 SimpleTextProcessorDecoupled reads specified in command line argument text file, performs some text processing 
