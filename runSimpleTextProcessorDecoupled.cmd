@@ -1,0 +1,1 @@
+java -classpath ./; simpletxtprocessor.RunSimpleTextProcessor readme.txt
